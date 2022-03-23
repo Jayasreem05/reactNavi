@@ -19,4 +19,4 @@ A sample application which uses stack, tab and drawer navigators.
 
 ## App Output GIF:
 <img src="sr/rec.gif" alt="Screen Recording" width="200"/>
-
+![rec](https://user-images.githubusercontent.com/76157439/159639764-22eba487-f22a-4c5d-b1f6-b2eca266c462.gif)
